@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# AUTHOR: j0hn.dev
 # Function to display usage information
 usage() {
     clear
