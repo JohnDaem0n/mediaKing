@@ -3,7 +3,7 @@ Manage media from date range
 
 A bash script to manage files based on a date range, see the storage amount of the set criteria, see how many files based on the date range, make a new folder, move selected criteria to new folder, zip and remove content.
 
-This script is made to handle media content which is primarily used on an android device to upload media to cloud storage based on a date range. 
+This script is made to handle media content which is primarily used on an android device to upload media to cloud storage based on a date range. This program can be used on any linux distros. Future features to add: rclone to choose various cloud storage providers, set a scheduler(cron job), and add options of selecing types of media, i.e., pngs only, mp4s only...etc.
 
 ![MediaKing](https://github.com/JohnDaem0n/mediaKing/assets/146874543/26f1ae6e-bbd2-450b-a09a-be7fdc8613c9)
 
